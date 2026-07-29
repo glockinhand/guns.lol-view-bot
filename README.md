@@ -1,3 +1,9 @@
+> # ⚠️ PATCHED — but you can unpatch it.
+>
+> This project is currently **patched** and no longer works as intended.  
+> If you know what you're doing, it's possible to **unpatch/fix it yourself** — I'm just too lazy to maintain it.
+>
+> **PRs are welcome. 😴**
 
 <img width="800" height="450" alt="ezgif-5e2a950979f4816c" src="https://github.com/user-attachments/assets/b008e081-9329-4523-898e-631801199acc" />
 
